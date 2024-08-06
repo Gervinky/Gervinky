@@ -1,10 +1,10 @@
-<br clear="both">
-
-<img align="left" height="263" src="https://github.com/Gervinky/Gervinky.github.io/blob/main/images/gervinky.png?raw=true"  />
+<h1 align="left">Hola! 👋</h1>
 
 ###
 
-<h1 align="left">Hola! 👋</h1>
+<br clear="both">
+
+<img align="left" height="263" src="https://github.com/Gervinky/Gervinky.github.io/blob/main/images/gervinky.png?raw=true"  />
 
 ###
 
